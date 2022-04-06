@@ -1,6 +1,0 @@
-hello everyone,
-this is veeresh 
-devops engineer 
-linux administrator
-shell script
-
