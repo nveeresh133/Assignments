@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "enter the basic salary:"
-B=$1
+$basic
 dp=$(expr $B / 2)
 echo $dp
 x=$(expr $B + $dp)
