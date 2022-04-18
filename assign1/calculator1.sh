@@ -1,13 +1,13 @@
 #!/bin/bash/
 echo " read the numbers.."
-read num1
-read num2
+$num1
+$num2
 echo "enter the operands ..."
 echo "1. addition"
 echo "2. subtraction"
 echo "3. multiplication" 
 echo "4. division"
-read op
+$op
 if [ $op == 1 ]
 then
 a=`expr $num1 + $num2`
