@@ -1,0 +1,4 @@
+09-Apr-2022 16:48:31.406 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+09-Apr-2022 16:48:31.426 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+09-Apr-2022 16:48:31.550 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+09-Apr-2022 16:48:31.568 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
